@@ -1,4 +1,4 @@
-Framedia PPT
+Framedia
 ====
 
-Framedia PPT
+Framedia
