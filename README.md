@@ -3,6 +3,8 @@ Framedia 1.0.2.1
 
 Framedia(All In One)
 
+<img src="https://raw.githubusercontent.com/HackerX/Framedia/master/Framedia.jpg" alt="" />
+
 更新说明：
 
 1.0.2.1(update:2014.04.01)
