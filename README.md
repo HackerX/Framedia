@@ -1,4 +1,4 @@
-Framedia 1.0.2.1
+Framedia 1.0.2.2
 ====
 
 Framedia(All In One)
