@@ -7,7 +7,7 @@ Framedia(All In One)
 
 更新说明：
 
-1.0.3(update:)
+1.0.3(update:2015.04.27)
 
     UI更新。
 
