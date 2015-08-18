@@ -1,18 +1,22 @@
 Framedia
 ====
 
-Framedia(All In One)
+Framedia Toolkit
 
 <img src="https://raw.githubusercontent.com/HackerX/Framedia/master/Framedia.jpg" alt="" />
 
 更新说明：
 
+1.1.2(update:2015.08.18)
+
+    XLS模式：
+    增加表格B筛选列提取数据判断。
+
 1.1.1(update:2015.08.17)
 
     XLS模式：
-    
     1.修正差异数据判断条件，涉及表格B差异数据未能同步显示。
-    2.XLS模式中[比较]按钮按下后，保持其启用状态，避免因错误选择重新开打文件。
+    2.XLS模式[比较]触发后，保持其启用状态，避免因错误选择重新开打文件。
     3.增加文本输出信息。
 
 1.1.0(update:2015.08.16)
