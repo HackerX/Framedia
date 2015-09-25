@@ -1,11 +1,10 @@
-Framedia
-====
+# Framedia
 
 Framedia Toolkit
 
 <img src="https://raw.githubusercontent.com/HackerX/Framedia/master/Framedia.jpg" alt="" />
 
-更新说明：
+## 更新历史
 
 1.1.4(update:2015.09.25)
 
